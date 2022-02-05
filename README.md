@@ -1,9 +1,9 @@
 Versions used:
 
-Java 8
-Spring boot 2.6.3
-Apache Maven 3.8.4
-IntelliJ IDEA 2021.2.3 
+-Java 8
+-Spring boot 2.6.3
+-Apache Maven 3.8.4
+-IntelliJ IDEA 2021.2.3 
 
 The Curl is:
 
